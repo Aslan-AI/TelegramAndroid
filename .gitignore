@@ -23,3 +23,7 @@ TMessagesProj/jni/ffmpeg/build/
 TMessagesProj/jni/boringssl/build/
 TMessagesProj/jni/tde2e/x86*
 TMessagesProj/jni/tde2e/arm*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
